@@ -12,6 +12,7 @@
 		<cucumber.version>1.2.5</cucumber.version>
 		<rest-assured.version>3.3.0</rest-assured.version>
 	</properties>
+	
 	<dependencies>
 	
 		<dependency>
